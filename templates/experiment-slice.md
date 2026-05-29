@@ -1,23 +1,23 @@
-# Experiment: TITLE
+# Experiment：TITLE
 
-## Question
+## 问题
 
-What single question does this experiment answer?
+这个 experiment 要回答的单一问题是什么？
 
 ## Setup
 
-- Date:
-- Machine:
-- GPUs:
-- CPU / NUMA:
-- Driver:
-- CUDA:
-- NCCL:
-- Framework commit:
+- Date：
+- Machine：
+- GPUs：
+- CPU / NUMA：
+- Driver：
+- CUDA：
+- NCCL：
+- Framework commit：
 
 ## Topology
 
-Paste `nvidia-smi topo -m` or summarize the important links.
+粘贴 `nvidia-smi topo -m`，或者总结关键连接关系。
 
 ## Commands
 
@@ -32,10 +32,10 @@ Paste `nvidia-smi topo -m` or summarize the important links.
 
 ## Trace
 
-- Nsight file:
-- Interesting kernels:
-- Collective:
-- Message size:
+- Nsight file：
+- Interesting kernels：
+- Collective：
+- Message size：
 
 ## Observations
 
@@ -45,8 +45,8 @@ Paste `nvidia-smi topo -m` or summarize the important links.
 
 ## Hypothesis
 
-What likely explains the observations?
+哪些机制最可能解释这些 observations？
 
 ## Next
 
-Change one variable next:
+下一次只改变一个变量：
